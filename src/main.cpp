@@ -1,6 +1,6 @@
 /*
  * ATIVIDADE VIVENCIAL M6 – TILEMAP ISOMÉTRICO DIAMOND
- * Bruna Chies e Thais Oliveira
+ * Bruna Chies
  *
  * Tileset: 7 tiles de 128×64 (areia, grama, terra, lava, água rasa, água funda, rosa)
  * Player:  Messi (player.png)
