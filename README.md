@@ -7,7 +7,7 @@
 
 ## Sobre o Projeto
 
-Nessa atividade foi desenvolvido um tilemap isométrico no modelo **diamond** com navegação por teclado, dois modos de interação e um personagem (Messi, estilo Minecraft) que indica a posição atual no mapa.
+Nessa atividade foi desenvolvido um tilemap isométrico no modelo **diamond** com navegação por teclado, dois modos de interação e um personagem que indica a posição atual no mapa.
 
 O mapa é uma grade 10×10 renderizada em projeção ortográfica paralela com `1 unidade = 1 pixel`. Cada tile é um losango de 128×64 pixels (proporção 2:1), extraído de um tileset horizontal com 7 tiles.
 
